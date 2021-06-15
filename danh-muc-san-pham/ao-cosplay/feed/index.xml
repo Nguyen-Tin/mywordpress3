@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aó Cosplay &#8211; AnimeZ</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-cosplay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyen-tin.github.io/mywordpress3</link>
+	<description>Cộng Đồng Anime Việt Nam</description>
+	<lastBuildDate>Tue, 15 Jun 2021 02:21:32 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Đồ Cosplay 02</title>
+		<link>https://nguyen-tin.github.io/mywordpress3/sản%20phẩm/do-cosplay-02/</link>
+					<comments>https://nguyen-tin.github.io/mywordpress3/sản%20phẩm/do-cosplay-02/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Tín]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 02:04:22 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyen-tin.github.io/mywordpress3/?post_type=product&#038;p=212</guid>
+
+					<description><![CDATA[<span data-spm-anchor-id="a2g0o.detail.1000023.i0.6e608c9czrZf9f">Tên Anime: Darling in the Franxx </span>
+
+Anime Vai Trò:ICHIGO MIKU
+
+bao gồm: Áo &#38; Mũ Nón &#38; Stocking]]></description>
+										<content:encoded><![CDATA[<p><span data-spm-anchor-id="a2g0o.detail.1000023.i0.6e608c9czrZf9f">Tên Anime: Darling in the Franxx </span></p>
+<p>Anime Vai Trò:ICHIGO MIKU</p>
+<p>bao gồm: Áo &amp; Mũ Nón &amp; Stocking</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyen-tin.github.io/mywordpress3/sản%20phẩm/do-cosplay-02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
